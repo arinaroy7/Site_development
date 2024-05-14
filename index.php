@@ -29,6 +29,7 @@
             <h4 class="my-0 fw-normal">Free</h4>
           </div>
           <div class="card-body">
+            <img src="img/<?php echo ($i+1) ?>.jpg" class="img-thumbnail card-img">
             <h1 class="card-title pricing-card-title">$0<small class="text-body-secondary fw-light">/mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>10 users included</li>
