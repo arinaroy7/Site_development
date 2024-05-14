@@ -22,7 +22,7 @@
     <h3 class="mb-5">Наши книги</h3>
     <div class="d-flex flex-wrap">
     <?php
-      for($i = 0; $i < 6; $i ++):
+      for($i = 0; $i < 3; $i ++):
     ?>
       <div class="card mb-4 rounded-3 shadow-sm">
           <div class="card-header py-3">
