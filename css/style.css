@@ -1,8 +1,8 @@
 .card {
-    width: 32%;
-    margin-left: 1%;
+    width: 3%;
+    margin: 2%;
 }
 .card-img {
-    width: 470;
-    height: 470;
+    width: 100% !important;
+    height: auto !important;
 }
