@@ -9,8 +9,7 @@
     <title>PHP my site</title>
 </head>
 <body>
-    <?php require "blocks/header.php"?>
-  </div>
+    <?php require "blocks/shapka.php"?>
   <?php require "footer/footer.php" ?>
 </body>
 </html>

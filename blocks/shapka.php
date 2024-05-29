@@ -5,4 +5,4 @@
         <a class="p-2 text-dark" href="#">Контакты</a>
         </nav>
         <a class="btn btn-outline-primary" href="#">Войти</a>
-    </div>
+</div>
