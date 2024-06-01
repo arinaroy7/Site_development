@@ -14,7 +14,7 @@
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        height: 93%;
+        height: 100%;
       }
     </style>
     <title>PHP my site</title>
@@ -39,6 +39,17 @@
         ],
         [
          "Здесь обитают книги для будущих или действующих програмистов"
+        ]
+      ];
+
+      $links = [
+        [  "D:\MAMP\htdocs\Site_development\pages\page1.php"
+        ],
+        [
+          "D:\MAMP\htdocs\Site_development\pages\page2.php"
+        ],
+        [
+          "D:\MAMP\htdocs\Site_development\pages\page3.php"
         ]
       ];
       
@@ -66,6 +77,6 @@
       <?php endfor; ?>
     </div>
   </div>
-  <?php require "blocks/shapka.php"?>
+  <?php require "footer/footer.php"?>
 </body>
 </html>

@@ -10,6 +10,5 @@
 </head>
 <body>
     <?php require "blocks/shapka.php"?>
-  <?php require "footer/footer.php" ?>
 </body>
 </html>
